@@ -1,5 +1,5 @@
-VLC Media Player for Laptop
-===========================
+VLC Media Player for Laptop > Free Download
+===========================================
 
 Boasting an array of impressive features, the VLC media player on a laptop provides an excellent media viewing experience. With it, users are afforded the luxury to play various media formats that other players don't support.
 
