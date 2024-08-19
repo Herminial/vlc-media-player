@@ -26,6 +26,7 @@ intersphinx_mapping = {
 intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
+html_static_path = ['_source']
 
 # -- Options for HTML output
 
