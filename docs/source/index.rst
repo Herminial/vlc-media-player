@@ -36,7 +36,6 @@ Contents
 --------
 
 .. toctree::
-:maxdepth: 2
 
    windows11
    windows10
