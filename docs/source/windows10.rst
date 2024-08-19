@@ -1,4 +1,4 @@
-VLC Media Player on Windows 10
+VLC Media Player for Windows 10
 ==============================
 
 Known for its versatile multimedia capabilities, the VLC player to download for Windows 10 offers a comprehensive solution for a vast range of media formats. With a robust, user-friendly interface compatible with different versions of Windows, it's the go-to open source media player for countless users worldwide.
