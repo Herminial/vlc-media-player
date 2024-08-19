@@ -17,7 +17,7 @@ Using VLC Media Player on PC: Functionality and Customizability
 
 Moreover, the VLC media player for free to download for PC means you get to take control of your viewing or listening experience. It boasts features such as customizable skins, exceptional audio and video filters, and various plugins for extended functionality. Much more, the VLC app for PC, after the download, pledges expanded control over your media content with features that allow you to manipulate and optimize playback.
 
-Making Online Streaming Seamless with VLC App on PC for Free
+Seamless Online Streaming with VLC App on PC for Free
 ------------------------------------------------------------
 
 - Among its numerous features, the VLC app to download for PC makes online streaming a seamless task. It supports various streaming protocols and formats, providing a hassle-free experience while enjoying your favorite online content. Additionally, it can also be used to stream and transcode media files over a network.
@@ -38,4 +38,7 @@ Contents
 .. toctree::
 
    usage
-   api
+   API
+   VLC for Windows 11
+   VLC for Windows 10
+   VLC for Windows 17
