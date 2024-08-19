@@ -1,4 +1,4 @@
-VLC Media Player for Windows 7
+VLC Media Player > Download for Windows 7
 ==============================
 Features of VLC Player on Windows 7 OS
 --------------------------------------
