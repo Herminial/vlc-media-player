@@ -39,6 +39,4 @@ Contents
 
    usage
    API
-   VLC for Windows 11
-   VLC for Windows 10
-   VLC for Windows 17
+   windows
