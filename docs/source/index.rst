@@ -36,9 +36,9 @@ Contents
 --------
 
 .. toctree::
-   usage
-   API
    windows11
    windows10
    windows7
    laptop
+   macbook
+   linux
