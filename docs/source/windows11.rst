@@ -1,7 +1,9 @@
+Download VLC Media Player for Windows 11
+========================================
 Considering the advanced operating system that VLC player on Windows 11 is compatible with, it offers many new and upgraded features. For instance, it supports various file formats, including MKV, MP3, and MP4, among others. The Windows 11 version also allows media to be streamed from online sources.
 
 Step-by-Step Guide to Install VLC on Windows 11
-===============================================
+-----------------------------------------------
 
 Before starting the installation process, one needs to have the VLC installer file. This can be obtained by an online search for VLC to download for Windows 11. As the VLC player supports this latest Windows version, finding a compatible installation package should be fairly easy.
 
