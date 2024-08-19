@@ -13,8 +13,8 @@ How to Install VLC Media Player on Windows 10
 
 VLC media player is free to download for Windows 10 and the installation process is simple and straightforward, making it accessible even for non-tech savvy individuals. Here's a step-by-step guide to help you install VLC player for free on Windows 10.
 
-Step 1: Download the Software
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Step 1: Download the VLC media player for Free
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 You have the option to download the VLC media player for Windows 10 from several reliable third-party websites. It's essential to choose a trusted source to protect your device from harmful malware or viruses.
 
@@ -33,13 +33,13 @@ Step 4: Complete Installation
 
 With the aid of installation prompts, you should now be able to install VLC media player on Windows 10 successfully. After completion, the VLC icon will appear in your start menu or on your desktop, ready for use.
 
-Launching VLC Media Player on Windows 10
-----------------------------------------
+Launching Free VLC Media Player on Windows 10 PC
+------------------------------------------------
 
 Upon successful installation, you can enjoy free VLC media player on Windows 10. To launch the player, simply navigate to the VLC media player icon on your desktop or start menu and double-click on it. The application should launch, ready to play your favorite media content.
 
 System Requirements
--------------------
+^^^^^^^^^^^^^^^^^^^
 
 Here is a simplified table showing the minimum system requirements needed to operate VLC player for Windows 10 for free to download and run smoothly on your PC or laptop.
 
