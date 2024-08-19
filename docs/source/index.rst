@@ -36,7 +36,7 @@ Contents
 --------
 
 .. toctree::
-
+:titlesonly:
    usage
    API
    windows11
