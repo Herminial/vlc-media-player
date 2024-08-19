@@ -28,7 +28,7 @@ VLC Media Player App & Enhanced Privacy
 This platform is an open-source project, meaning, with VLC to download for PC, you benefit from the hundreds of developers worldwide incessantly working to enhance your experience. More than that, the VLC player and download for free for PC feature doesn't come attached with intrusive add-ons or user tracking, ensuring your use remains private.
 
 Summary
---------
+-------
 
 Ultimately, the VLC media player for PC after download promises a unique, optimized, and hassle-free media experience that is rare to come by. In providing a platform that is accessible, versatile, customizable, and utterly free, the developers of VLC have indeed redefined what we should expect from a media player and raised the bar significantly higher for competitors. A significant improvement in your media experience awaits you with just one click.
 
@@ -39,9 +39,3 @@ Contents
 
    usage
    API
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Related Pages
-
-   windows
