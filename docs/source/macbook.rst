@@ -1,5 +1,5 @@
-VLC Media Player for Mac
-========================
+VLC Media Player for Mac > Download for Free
+============================================
 
 Navigating the world of Mac media players, VLC media player on Mac stands out for its impressive array of features and compatibility. This powerful multimedia platform supports various audio and video formats, allowing you to play files without requiring additional downloads. The VLC player is also renowned for its ability to play incomplete or damaged files.
 
