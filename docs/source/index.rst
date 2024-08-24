@@ -39,6 +39,7 @@ Contents
 
    windows11
    windows10
+   newwindows10
    windows7
    laptop
    macbook
