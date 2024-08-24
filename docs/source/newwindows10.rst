@@ -3,7 +3,7 @@ VLC App for Windows 10: Top-10 Features to Unlock Its Full Potential
 
 VLC Media Player is one of the most popular media players available today, especially for Windows users. While many people use it to play videos and music, not everyone knows that VLC is packed with powerful features that can greatly improve your media experience. In this article, we’ll explore 10 hidden features of VLC Media Player that can help you unlock its full potential on Windows 10.
 
-VLC Media Player: A Versatile Tool Beyond Simple Playback
+VLC Player: A Versatile Tool Beyond Simple Playback
 ---------------------------------------------------------
 When you download VLC Media Player for Windows 10, you’re not just getting a basic video player. VLC is a complete media tool with many features, like converting files and streaming media. Below are some of the lesser-known but valuable features of VLC that you should explore.
 
