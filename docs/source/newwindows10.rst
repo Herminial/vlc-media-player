@@ -5,7 +5,6 @@ VLC Media Player is one of the most popular media players available today, espec
 
 VLC Media Player: A Versatile Tool Beyond Simple Playback
 ---------------------------------------------------------
-
 When you download VLC Media Player for Windows 10, you’re not just getting a basic video player. VLC is a complete media tool with many features, like converting files and streaming media. Below are some of the lesser-known but valuable features of VLC that you should explore.
 
 Hidden Features of VLC Media Player
