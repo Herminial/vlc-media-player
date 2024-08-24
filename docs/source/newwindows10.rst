@@ -13,34 +13,44 @@ Hidden Features of VLC Media Player
 Here are 10 hidden features in VLC Media Player you might not know about:
 
 1. **Convert Media Files to Different Formats**  
-   VLC Media Player can convert different types of media files. You can change formats quickly and easily.
+   
+VLC Media Player can convert different types of media files. You can change formats quickly and easily.
 
 2. **Stream and Download YouTube Videos**  
-   You can use VLC to stream and download videos from YouTube by entering the video URL in the Network Stream option.
+   
+You can use VLC to stream and download videos from YouTube by entering the video URL in the Network Stream option.
 
 3. **Record Your Desktop**  
-   VLC can record your screen. This feature is great for creating tutorials or capturing gameplay.
+   
+VLC can record your screen. This feature is great for creating tutorials or capturing gameplay.
 
 4. **Apply Video Effects and Filters**  
-   You can improve your videos with VLC’s effects and filters. Adjust brightness, contrast, and color saturation.
+   
+You can improve your videos with VLC’s effects and filters. Adjust brightness, contrast, and color saturation.
 
 5. **Rip DVDs to Your Computer**  
-   Save your DVDs on your computer by ripping them with VLC’s Convert/Save feature.
+   
+Save your DVDs on your computer by ripping them with VLC’s Convert/Save feature.
 
 6. **Create Bookmarks for Easy Navigation**  
-   Bookmark specific points in your videos so you can easily return to them later.
+   
+Bookmark specific points in your videos so you can easily return to them later.
 
 7. **Add Subtitles Automatically**  
-   VLC can search for and download subtitles automatically. This feature is great for watching foreign films or videos.
+   
+VLC can search for and download subtitles automatically. This feature is great for watching foreign films or videos.
 
 8. **Adjust Playback Speed**  
-   Speed up or slow down video playback without losing sound quality. This is perfect for lectures and tutorials.
+   
+Speed up or slow down video playback without losing sound quality. This is perfect for lectures and tutorials.
 
 9. **Use VLC as a Video Wallpaper**  
-   Set a video as your desktop wallpaper for a dynamic background.
+   
+Set a video as your desktop wallpaper for a dynamic background.
 
 10. **Customize VLC with Skins and Extensions**  
-    Change how VLC looks with custom skins and extend its features with plugins.
+    
+Change how VLC looks with custom skins and extend its features with plugins.
 
 Detailed Table of Features
 --------------------------
